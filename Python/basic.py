@@ -18,7 +18,7 @@ addFruit = input("좋아하는 과일 있으세요? : ")
 UserInfo.append(addFruit)
 print("아하~ " + UserInfo[1] + "라는 과일을 좋아하신군요!")
 print("제가 바로 " + UserInfo[1] + "준비해드리겠습니다.")
-
+# UserInof.append(UserInfo[번호]) - 이런것도 되더라~
 
 
 #<미션 3> - Dictionary
